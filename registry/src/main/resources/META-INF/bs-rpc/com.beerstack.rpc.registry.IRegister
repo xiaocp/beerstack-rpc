@@ -1,0 +1,2 @@
+zookeeper=com.beerstack.rpc.registry.zookeeper.ZookeeperRegisterImpl
+redis=com.beerstack.rpc.registry.redis.RedisRegisterImpl

@@ -1,0 +1,2 @@
+random=com.beerstack.rpc.cluster.loadbalance.RandomLoadBalanceImpl
+round=com.beerstack.rpc.cluster.loadbalance.RoundLoadBalanceImpl

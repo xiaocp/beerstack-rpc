@@ -1,0 +1,2 @@
+netty=com.beerstack.rpc.remote.netty.NettyProviderServer
+http=com.beerstack.rpc.remote.http.HttpProviderServer
